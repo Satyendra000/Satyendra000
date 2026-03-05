@@ -19,7 +19,7 @@ I am a software engineer focused on building scalable web applications and solvi
 - 💻 **Tech Stack:** MERN, C++, JavaScript, Python
 - 🧠 **Problem Solving:** Solved **1000+ DSA problems** across LeetCode, CodeChef, Codeforces, and GfG
 - 🚀 **Building:** SmartSplit App and an AI-Powered Developer Portfolio
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pw_p8eIlFW1sJV9IFFVjrfm7UJ1yDXy1/view)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1OhaDGeT3jhiRceG-7_0k238BKgIQRZ0d/view?usp=drive_link)
 
 ---
 
