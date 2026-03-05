@@ -1,4 +1,7 @@
 # Hi there, I'm Satyendra! 👋
+<p align="center">
+<img width="11811" height="5906" alt="Black and White Modern Business Contact Banner (1)" src="https://github.com/user-attachments/assets/475c33f4-63bc-4efc-842f-f14158334f2d" />
+  </p>
 
 ### 🚀 Pre-Final Year ECE @ NIT Patna | Full-Stack Developer | LeetCode Knight
 
