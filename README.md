@@ -6,7 +6,7 @@
   <br/>
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);LeetCode+Knight+(Max+1917);B.Tech+ECE+%40+NIT+Patna;Integrating+AI%2FML+in+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);LeetCode+Knight+(Max+1989);B.Tech+ECE+%40+NIT+Patna;Integrating+AI%2FML+in+Web+Apps" alt="Typing SVG" />
 </div>
 
 ---
